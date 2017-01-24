@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Florian Herrengt",
+    "label": "Javascript Fullstack Developer",
+    "summary": "Javascript developer with Fullstack experience and familiar with Machine Learning and Python. Experience of CI technologies and agile environment. Keen to share knowledge and learn from others",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "florianherrengt",
+        "url": "https://github.com/florianherrengt"
+      },
+      {
+        "network": "Twitter",
+        "username": "florianherrengt",
+        "url": "https://twitter.com/florianherrengt"
+      },
+      {
+        "network": "Linked",
+        "username": "florianherrengt",
+        "url": "https://www.linkedin.com/in/florian-herrengt-ab203494"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Skim.it",
+      "position": "Fullstack Developer",
+      "website": "https://skim.it",
+      "startDate": "2015-06-01",
+      "endDate": "2017-02-22",
+      "summary": "Skim.it's machine learning technology searches for relevant business intelligence about your customers and competitors and delivers it to you when you need it the most",
+      "highlights": [
+        "Successfully built an end to end SaaS application using NodeJS, MongoDb, Redis and React (isomorphic/universal)",
+        "OneNote add-in demoed at the Microsoft built conference in San Fransisco",
+        "100% code coverage using mocha",
+        "Hosted on AWS (Route53, CloudFront, S3, API Gateway, Lambda, Elastic Beanstalk, SNS, SES, SQS)",
+        "First approach to Machine Learning and Natural Language Processing (Python)"
+      ]
+    },
+    {
+      "company": "Adjust Your Set",
+      "position": "Javascript Developer",
+      "website": "http://adjustyourset.com",
+      "startDate": "2014-10-01",
+      "endDate": "2015-06-01",
+      "summary": "A full-service digital content agency designed for next generation marketing mostly focused on videos.",
+      "highlights": [
+        "Build new or improve existing video players (Backbone, video.js)",
+        "Add unit and E2E testing to most recent projects (mocha, webdriver.io + saucelab)",
+        "Build a proof of concept mobile app for M&S (Cordova, Ionic, Angular 1)"
+      ]
+    },
+    {
+      "company": "IG Index",
+      "position": "Front End Developer",
+      "website": "https://www.ig.com/uk",
+      "startDate": "2014-06-01",
+      "endDate": "2014-10-01",
+      "summary": "With offices in 17 countries and over 1000 staff, IG Index is a global leader in online trading.",
+      "highlights": [
+        "Add client side rendered web app (Angular 1) on the top of a REST API to edit the site map",
+        "Optimise loading time (lazy loading for every components)",
+        "Unit testing (Karma/Jasmine)"
+      ]
+    },
+    {
+      "company": "Agora Finance Services",
+      "position": "Program Analyst",
+      "website": "http://www.lefinancement.com",
+      "startDate": "2012-09-01",
+      "endDate": "2014-06-01",
+      "summary": "Vendor Program Management since 1990",
+      "highlights": [
+        "Saas application using ExtJS, PHP and MySQL",
+        "Generate PDF reports (up to 1.2M lines) by extracting relevant information from the database (SQL queries)",
+        "Tracking down memory leaks (users almost never close the app)"
+      ]
+    },
+    {
+      "company": "Haubourdin Town Hall",
+      "position": "Program Analyst",
+      "website": "http://www.haubourdin.fr",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "Haubourdin is a commune in northern France.",
+      "highlights": [
+        "Website + CMS (no framework)",
+        "Mobile version (jQuery mobile)",
+        "Application to check and book available equipment (jQuery/PHP)"
+      ]
+    },
+    {
+      "company": "Intuitive Travel",
+      "position": "Program Analyst",
+      "website": "https://www.facebook.com/intuitivetravel",
+      "startDate": "2010-09-01",
+      "endDate": "2011-08-01",
+      "summary": " The aim of the Intuitive Travel Company is to support players in the tourism industry to meet the challenges of digital technology.",
+      "highlights": [
+        "Automated video conversion (Apache + ffmpeg) ",
+        "Drupal website"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ingésup",
+      "area": "Software Engineer - RNCP I",
+      "startDate": "2013-10-01",
+      "endDate": "2014-09-01",
+      "courses": [
+        "Cloud based applications (Master's thesis)",
+        "Big Data",
+        "Project Management"
+      ]
+    },
+    {
+      "institution": "EPSI",
+      "area": "Bachelor - RNCP II",
+      "startDate": "2012-09-01",
+      "endDate": "2013-07-01",
+      "courses": [
+        "Data Analysis",
+        "Web development",
+        "Projects management"
+      ]
+    },
+    {
+      "institution": "Institut Informatique et Entreprise",
+      "area": "Program Analyst - RNCP III",
+      "startDate": "2010-09-01",
+      "endDate": "2012-06-01",
+      "courses": [
+        "Algorithmic",
+        "Mathematics",
+        "Web Development "
+      ]
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "ES6 (Babel / Typescript)",
+        "React / Redux",
+        "Browserify / Webpack",
+        "Angular 1 / 2",
+        "LESS / SASS",
+        "Chrome extension"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "AWS (Route53, CloudFront, S3, SQS, SNS, SES, API Gateway, Lambda, DynamoDb, Elastic Beanstalk)",
+        "Docker",
+        "Node + Express",
+        "Slack integration"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Mocha",
+        "Webdriver.io / Saucelab",
+        "Istanbul code coverage",
+        "CircleCI"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MongoDb",
+        "MySQL",
+        "Postgres",
+        "Redis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Joshua Evans - Skimit CTO",
+      "reference": "It’s my absolute pleasure to recommend Florian Herrengt as a Fullstack developer.  I thoroughly enjoyed my time working with him, and came to know him as a truly valuable asset to absolutely any team. "
+    }, {
+      "name": "Danny Hopes - Skimit Product Owner",
+      "reference": "Without a doubt, I confidently recommend Florian to join your team. As a dedicated and knowledgeable employee and an all-around great person, I know that he will be a beneficial addition to your organisation."
+    }
+  ]
+}

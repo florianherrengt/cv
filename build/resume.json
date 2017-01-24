@@ -1,0 +1,225 @@
+{
+  "name": "Florian Herrengt",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Fullstack Developer",
+        "employer": "Skim.it",
+        "summary": "Skim.it's machine learning technology searches for relevant business intelligence about your customers and competitors and delivers it to you when you need it the most",
+        "start": "2015-06-01",
+        "end": "2017-02-22",
+        "url": "https://skim.it",
+        "keywords": [],
+        "highlights": [
+          "Successfully built an end to end SaaS application using NodeJS, MongoDb, Redis and React (isomorphic/universal)",
+          "OneNote add-in demoed at the Microsoft built conference in San Fransisco",
+          "100% code coverage using mocha",
+          "Hosted on AWS (Route53, CloudFront, S3, API Gateway, Lambda, Elastic Beanstalk, SNS, SES, SQS)",
+          "First approach to Machine Learning and Natural Language Processing (Python)"
+        ]
+      },
+      {
+        "position": "Javascript Developer",
+        "employer": "Adjust Your Set",
+        "summary": "A full-service digital content agency designed for next generation marketing mostly focused on videos.",
+        "start": "2014-10-01",
+        "end": "2015-06-01",
+        "url": "http://adjustyourset.com",
+        "keywords": [],
+        "highlights": [
+          "Build new or improve existing video players (Backbone, video.js)",
+          "Add unit and E2E testing to most recent projects (mocha, webdriver.io + saucelab)",
+          "Build a proof of concept mobile app for M&S (Cordova, Ionic, Angular 1)"
+        ]
+      },
+      {
+        "position": "Front End Developer",
+        "employer": "IG Index",
+        "summary": "With offices in 17 countries and over 1000 staff, IG Index is a global leader in online trading.",
+        "start": "2014-06-01",
+        "end": "2014-10-01",
+        "url": "https://www.ig.com/uk",
+        "keywords": [],
+        "highlights": [
+          "Add client side rendered web app (Angular 1) on the top of a REST API to edit the site map",
+          "Optimise loading time (lazy loading for every components)",
+          "Unit testing (Karma/Jasmine)"
+        ]
+      },
+      {
+        "position": "Program Analyst",
+        "employer": "Agora Finance Services",
+        "summary": "Vendor Program Management since 1990",
+        "start": "2012-09-01",
+        "end": "2014-06-01",
+        "url": "http://www.lefinancement.com",
+        "keywords": [],
+        "highlights": [
+          "Saas application using ExtJS, PHP and MySQL",
+          "Generate PDF reports (up to 1.2M lines) by extracting relevant information from the database (SQL queries)",
+          "Tracking down memory leaks (users almost never close the app)"
+        ]
+      },
+      {
+        "position": "Program Analyst",
+        "employer": "Haubourdin Town Hall",
+        "summary": "Haubourdin is a commune in northern France.",
+        "start": "2011-08-01",
+        "end": "2012-08-01",
+        "url": "http://www.haubourdin.fr",
+        "keywords": [],
+        "highlights": [
+          "Website + CMS (no framework)",
+          "Mobile version (jQuery mobile)",
+          "Application to check and book available equipment (jQuery/PHP)"
+        ]
+      },
+      {
+        "position": "Program Analyst",
+        "employer": "Intuitive Travel",
+        "summary": " The aim of the Intuitive Travel Company is to support players in the tourism industry to meet the challenges of digital technology.",
+        "start": "2010-09-01",
+        "end": "2011-08-01",
+        "url": "https://www.facebook.com/intuitivetravel",
+        "keywords": [],
+        "highlights": [
+          "Automated video conversion (Apache + ffmpeg) ",
+          "Drupal website"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Ingésup",
+        "start": "2013-10-01",
+        "end": "2014-09-01",
+        "curriculum": [
+          "Cloud based applications (Master's thesis)",
+          "Big Data",
+          "Project Management"
+        ],
+        "summary": "",
+        "area": "Software Engineer - RNCP I"
+      },
+      {
+        "institution": "EPSI",
+        "start": "2012-09-01",
+        "end": "2013-07-01",
+        "curriculum": [
+          "Data Analysis",
+          "Web development",
+          "Projects management"
+        ],
+        "summary": "",
+        "area": "Bachelor - RNCP II"
+      },
+      {
+        "institution": "Institut Informatique et Entreprise",
+        "start": "2010-09-01",
+        "end": "2012-06-01",
+        "curriculum": [
+          "Algorithmic",
+          "Mathematics",
+          "Web Development "
+        ],
+        "summary": "",
+        "area": "Program Analyst - RNCP III"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Frontend",
+        "skills": [
+          "ES6 (Babel / Typescript)",
+          "React / Redux",
+          "Browserify / Webpack",
+          "Angular 1 / 2",
+          "LESS / SASS",
+          "Chrome extension"
+        ]
+      },
+      {
+        "name": "Backend",
+        "skills": [
+          "AWS (Route53, CloudFront, S3, SQS, SNS, SES, API Gateway, Lambda, DynamoDb, Elastic Beanstalk)",
+          "Docker",
+          "Node + Express",
+          "Slack integration"
+        ]
+      },
+      {
+        "name": "Testing",
+        "skills": [
+          "Mocha",
+          "Webdriver.io / Saucelab",
+          "Istanbul code coverage",
+          "CircleCI"
+        ]
+      },
+      {
+        "name": "Database",
+        "skills": [
+          "MongoDb",
+          "MySQL",
+          "Postgres",
+          "Redis"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/florianherrengt",
+      "user": "florianherrengt"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "https://twitter.com/florianherrengt",
+      "user": "florianherrengt"
+    },
+    {
+      "label": "Linked",
+      "network": "Linked",
+      "url": "https://www.linkedin.com/in/florian-herrengt-ab203494",
+      "user": "florianherrengt"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Joshua Evans - Skimit CTO",
+      "flavor": "professional",
+      "quote": "It’s my absolute pleasure to recommend Florian Herrengt as a Fullstack developer.  I thoroughly enjoyed my time working with him, and came to know him as a truly valuable asset to absolutely any team. ",
+      "private": false
+    },
+    {
+      "name": "Danny Hopes - Skimit Product Owner",
+      "flavor": "professional",
+      "quote": "Without a doubt, I confidently recommend Florian to join your team. As a dedicated and knowledgeable employee and an all-around great person, I know that he will be a beneficial addition to your organisation.",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ]
+}

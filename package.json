@@ -1,0 +1,19 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hackmyresume VALIDATE resume.json",
+    "docker:bash": "docker run -it -v $(pwd):/home florianherrengt/cv bash",
+    "docker:build": "docker build -t florianherrengt/cv .",
+    "build": "hackmyresume BUILD resume.json TO build/resume.all -t ./node_modules/jsonresume-theme-slick --pdf phantom && cp build/resume.md ./README.md",
+    "upload": "aws s3 cp build s3://cv.florianherrengt.com --recursive"
+  },
+  "keywords": [],
+  "author": "Florian Herrengt <florian.herrengt@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-slick": "^0.1.7"
+  }
+}
