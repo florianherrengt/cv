@@ -23,6 +23,16 @@
   },
   "work": [
     {
+      "company": "Lightful",
+      "position": "Fullstack Developer",
+      "website": "https://www.lightful.com",
+      "startDate": "2017-02-22",
+      "summary": "Easy-to-use social media and campaign management platform, designed specifically for charities and social enterprises",
+      "highlights": [
+        "Implement unit/integration testing"
+      ]
+    },
+    {
       "company": "Skim.it",
       "position": "Fullstack Developer",
       "website": "https://skim.it",

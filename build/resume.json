@@ -9,6 +9,18 @@
     "history": [
       {
         "position": "Fullstack Developer",
+        "employer": "Lightful",
+        "summary": "Easy-to-use social media and campaign management platform, designed specifically for charities and social enterprises",
+        "current": true,
+        "start": "2017-02-22",
+        "url": "https://www.lightful.com",
+        "keywords": [],
+        "highlights": [
+          "Implement unit/integration testing"
+        ]
+      },
+      {
+        "position": "Fullstack Developer",
         "employer": "Skim.it",
         "summary": "Skim.it's machine learning technology searches for relevant business intelligence about your customers and competitors and delivers it to you when you need it the most",
         "start": "2015-06-01",
