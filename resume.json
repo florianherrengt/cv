@@ -29,7 +29,12 @@
       "startDate": "2017-02-22",
       "summary": "Easy-to-use social media and campaign management platform, designed specifically for charities and social enterprises",
       "highlights": [
-        "Implement unit/integration testing"
+        "Serverless environment",
+        "Graphql api using Apollo",
+        "Postgres",
+        "React / Sass",
+        "Elasticsearch",
+        "Jest unit and integration testing"
       ]
     },
     {
@@ -202,8 +207,9 @@
     {
       "name": "Joshua Evans - Skimit CTO",
       "reference": "It’s my absolute pleasure to recommend Florian Herrengt as a Fullstack developer.  I thoroughly enjoyed my time working with him, and came to know him as a truly valuable asset to absolutely any team. "
-    }, {
-      "name": "Danny Hopes - Skimit Product Owner",
+    },
+    {
+      "name": "Danny Hope - Skimit Product Owner",
       "reference": "Without a doubt, I confidently recommend Florian to join your team. As a dedicated and knowledgeable employee and an all-around great person, I know that he will be a beneficial addition to your organisation."
     }
   ]
